@@ -52,9 +52,8 @@ Me chamo Gabrielly Santos Lima, tenho 19 anos e sou natural de Santos-SP. Conclu
 
 ### 📊 Estatísticas
 
-<p>
+<p align="left">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
@@ -62,8 +61,7 @@ Me chamo Gabrielly Santos Lima, tenho 19 anos e sou natural de Santos-SP. Conclu
   />
 
   <img 
-    align="left" 
-    alt="GitHub Stats" 
+    alt="Top Langs" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielly-slima&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
