@@ -2,7 +2,7 @@
 
 **`Iniciante em Análise de Dados`**
 
-Me chamo Gabrielly Santos Lima, tenho 19 anos e sou natural de Santos-SP. Concluí o ensino médio no SESI Cubatão, com o curso técnico em Eletroeletrônica. Atualmente, estou cursando Engenharia de Computação na UTFPR - Universidade Tecnológica Federal do Paraná - no campus Cornélio Procópio. Atualmente venho me especializando em Análise de Dados por meio de bootcamps e projetos práticos. Tenho estudado Python, SQL, Excel e PowerBI aplicados à manipulação, limpeza e visualização de dados.
+Me chamo Gabrielly Santos Lima, tenho 19 anos e sou natural de Santos-SP. Concluí o ensino médio no SESI Cubatão, com o curso técnico em Eletroeletrônica. Atualmente, cursando Engenharia de Computação na UTFPR - Universidade Tecnológica Federal do Paraná - no campus Cornélio Procópio e se especializando em Análise de Dados por meio de bootcamps e projetos práticos. 
 
 ### 🤖 Linguagens e Tecnologias
 
